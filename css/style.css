@@ -35,6 +35,8 @@ body {
             background-position: center;
             transition: all 0.5s ease;
             filter: brightness(0.6);
+            background-color: #ff0000; /* Яркий цвет для проверки */
+            border: 2px solid blue; /* Граница для видимости элемента */
         }
         
         #start-screen {
@@ -644,6 +646,7 @@ body {
                 
             }
         }
+
 
 
 

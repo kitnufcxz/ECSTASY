@@ -1,6 +1,6 @@
 @font-face {
     font-family: 'Blackcraft';
-    src: url('blackcraft.ttf') format('truetype');
+    src: url('Blackcraft.ttf') format('truetype');
 }
     
 body {
@@ -644,3 +644,4 @@ body {
                 
             }
         }
+
